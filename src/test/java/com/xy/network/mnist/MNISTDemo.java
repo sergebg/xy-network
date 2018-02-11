@@ -2,9 +2,6 @@ package com.xy.network.mnist;
 
 import static java.util.logging.Logger.getLogger;
 
-import com.xy.network.mnist.MNISTSample;
-import com.xy.network.mnist.MNISTSamples;
-import com.xy.network.mnist.NeuralNetwork;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.URL;
